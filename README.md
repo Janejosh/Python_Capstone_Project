@@ -103,3 +103,30 @@ Covered the following topics:
 
 ## 📁 File Structure
 
+
+---
+
+## 🚀 Key Takeaways
+
+✅ Mastered real-world data cleaning  
+✅ Built insightful visualizations for stakeholders  
+✅ Designed custom metrics and functions  
+✅ Simulated missing data & advanced parsing  
+✅ Delivered a production-ready cleaned dataset  
+
+---
+
+## 📌 Acknowledgments
+
+This project was completed as the **final capstone** for the Data Analytics track of the **HerTechTrail Academy Program**. Special thanks to mentors and peers who gave feedback throughout the project.
+
+---
+
+## 📎 Connect With Me
+
+**👤 Bukunmi Adeeko**  
+🔗 [LinkedIn](https://www.linkedin.com/in/bukunmiadeeko/)  
+🌐 [Portfolio Website](https://sites.google.com/view/bukunmiadeeko/home)  
+💻 [GitHub Projects](https://github.com/your-github-username)
+
+
